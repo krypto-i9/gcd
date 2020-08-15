@@ -1,2 +1,2 @@
 # gcd
-gcd calculator using Euclidean Algorithm
+Calculate greatest common diviser(gcd) using Euclidean Algorithm
